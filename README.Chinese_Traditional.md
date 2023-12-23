@@ -3,6 +3,10 @@
 這是一個非官方Reshade，使其能在突破米哈遊對於官方Reshade的封鎖下正常用於原神和崩壞:星穹鐵道(其它米哈遊遊戲未測試)    
 
 # 重要通知！  
+
+> [!NOTE]
+> 我們正在開發V2.X.X版本的GUI介面，V1.X.X版本將會在V2.X.X的GUI介面開發完成後終止維護。 即時請及時更新模組。
+
 新版的Readme.md檔案將會隨V2.X.X版本一起發布，感謝你的支持與等待。  
 V2.X.X版本將會和[阿向菌|AxBro](https://space.bilibili.com/436127696/video)一起製作，並將搭載最新版本的Reshade/RTGI/以及Pascal Gilcher的付費插件 （免費搭載）。   
 在Readme.md文件重寫完畢之前，請[追蹤我的HoYoLAB賬號](https://www.hoyolab.com/accountCenter/postList?id=192633110)以獲得最新消息。  
