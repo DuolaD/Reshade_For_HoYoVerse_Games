@@ -3,6 +3,10 @@
 A Unofficial Reshade For Genshin impact and Honkai:Star Rail  
 
 # Note  
+
+> [!NOTE]
+> We are currently developing the GUI interface for version V2.X.X, and version V1.X.X will be discontinued after the completion of GUI interface development for V2.X.X. Please update Mod promptly.
+
 New Readme.md file will publish with V2.X.X Stable Version.  
 
 V2.X.X will Upgrades to latest Reshade/RTGI/More pay Addons From Pascal Gilcher for Free.  
