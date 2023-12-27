@@ -5,7 +5,7 @@
 # 重要通知！  
 
 > [!NOTE]
-> 我們正在開發V2.X.X版本的GUI介面，V1.X.X版本將會在V2.X.X的GUI介面開發完成後終止維護。 即時請及時更新模組。
+> V1.X.X版本將於2024/1/1停止支持，屆時分支將會預設為V2.X.X-Stable,Release也將會發布新版本HoYoShade。
 
 新版的Readme.md檔案將會隨V2.X.X版本一起發布，感謝你的支持與等待。  
 V2.X.X版本將會和[阿向菌|AxBro](https://space.bilibili.com/436127696/video)一起製作，並將搭載最新版本的Reshade/RTGI/以及Pascal Gilcher的付費插件 （免費搭載）。   
