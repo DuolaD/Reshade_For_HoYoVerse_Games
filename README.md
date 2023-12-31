@@ -7,19 +7,6 @@ A Unofficial Reshade For Genshin impact and Honkai:Star Rail
 > [!NOTE]
 > Version V1.X.X is no longer supported, please switch to version [V2.X.X branch](https://github.com/DuolaD/HoYoShade/tree/V2.X.X-Stable)
 
-New Readme.md file will publish with V2.X.X Stable Version.  
-
-V2.X.X will Upgrades to latest Reshade/RTGI/More pay Addons From Pascal Gilcher for Free.  
-And V2.X.X will DEV with [阿向菌|AXBro](https://space.bilibili.com/436127696/video).  
-thanks for supporting and waiting.  
-
-Please [Follow My HoYoLAB account](https://www.hoyolab.com/accountCenter/postList?id=192633110) for the latest news until the Readme.md file is rewritten.  
-
-Mirror Download link for Mainland China now available on [CYteam-Netdesk](https://d.cyteam.cn/%E6%80%A8%E4%B8%8E%E6%8F%90%E7%93%A6%E7%89%B9%EF%BC%88Genshin%20Impact%EF%BC%89)  
-It also have Genshin Impact and Honkai:Star Rail Globel Server install pack for Android and PC.  
-And......HoYoLAB install pack for Android.  
-Thank [CYteam](https://www.cyteam.cn/) to give this Repository support.  
-
 ## Read ReadMe.md in your most proficient language.  
 What you are viewing now:[英语/英語/English]  
 [简体中文/簡體中文/Chinese_Simplified](README.Chinese_Simplified.md)  
