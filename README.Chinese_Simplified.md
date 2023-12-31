@@ -5,15 +5,7 @@
 # 重要通知  
 
 > [!NOTE]
-> V1.X.X版本将于2024/1/1停止支持，届时分支将会默认设置为V2.X.X-Stable,Release也将会发布新版本HoYoShade。
-
-新版本的Readme.md文件将会随V2.X.X版本一起发布，感谢你的支持和等待。  
-V2.X.X版本将会和[阿向菌|AxBro](https://space.bilibili.com/436127696/video)一起制作，并将会搭载最新版本的Reshade/RTGI/以及来自Pascal Gilcher的付费插件（免费搭载）。  
-在Readme.md重写完毕之前，请[关注我的HoYoLAB账号](https://www.hoyolab.com/accountCenter/postList?id=192633110)以获得最新消息。  
-
-中国大陆镜像下载链接现已在[CYteam网盘](https://d.cyteam.cn/%E6%80%A8%E4%B8%8E%E6%8F%90%E7%93%A6%E7%89%B9%EF%BC%88Genshin%20Impact%EF%BC%89)可用。  
-当然，此网盘内还包含了HoYoLAB安卓安装包和原神/崩坏：星穹铁道国际服的安卓和PC端的安装包。  
-感谢[CYteam](https://www.cyteam.cn/)对此仓库的支持。  
+> V1.X.X版本现已停止支持，请切换至[V2.X.X-Stable分支](https://github.com/DuolaD/HoYoShade/tree/V2.X.X-Stable)
 
 ## 用您最擅长的语言阅读 ReadMe.md
 [英语/英語/English](README.md)  
