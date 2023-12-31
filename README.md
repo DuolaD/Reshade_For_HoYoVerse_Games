@@ -5,7 +5,7 @@ A Unofficial Reshade For Genshin impact and Honkai:Star Rail
 # Note  
 
 > [!NOTE]
-> Version V1.X.X will cease support on 1/1/2024, at which time the branch will default to V2.X.X-Stable, and a new version HoYoShade will be released.
+> Version V1.X.X is no longer supported, please switch to version [V2.X.X branch](https://github.com/DuolaD/HoYoShade/tree/V2.X.X-Stable)
 
 New Readme.md file will publish with V2.X.X Stable Version.  
 
